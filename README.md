@@ -10,14 +10,12 @@
 
   Let´s talk:
 
-- 🔭 I’m currently working on my own
-- 🌱 I’m currently learning Developing from the basics
-- 👯 I’m looking to collaborate on HTML5
-- 🤔 I’m looking for help with CSS
+- 🔭 Yes, working on my own
+- 🌱 I’m currently learning about Legaltech
 - 💬 Ask me about Figma and Design
-- 📫 How to reach me: lauragl@gmail.com
+- 📫 How to reach me: lauralagunalegal@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: pizza with pineapple Yes, please!
+- ⚡ Fun fact: pizza always
 
 
 
@@ -30,13 +28,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my own
-- 🌱 I’m currently learning Developing from the basics
-- 👯 I’m looking to collaborate on HTML5
-- 🤔 I’m looking for help with CSS
+- 🔭 Yes, working on my own
+- 🌱 I’m currently learning about Legaltech
 - 💬 Ask me about Figma![canva github](https://github.com/Laulaguna/Laulaguna/assets/116038953/a29c45a7-dbb8-4093-87b2-37588207fa4c)
-
-- 📫 How to reach me: lauragl@gmail.com
+- 📫 How to reach me: lauralagunalegal@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: pizza with pineapple
+- ⚡ Fun fact: pizza always
 -->
